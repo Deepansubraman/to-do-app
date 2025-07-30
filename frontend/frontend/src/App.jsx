@@ -8,7 +8,7 @@ import { Tooltip } from 'react-tooltip';
 import 'react-tooltip/dist/react-tooltip.css';
 import Confetti from 'react-confetti';
 
-const API = 'https://to-do-app-3utk.onrender.com/api';
+const API = 'https://to-do-app-5-7owd.onrender.com/api';
 
 const priorityColors = {
   Low: '#4ade80',
